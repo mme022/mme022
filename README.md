@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm mme</h1>
-<h3 align="center">former business consultant making his way through the web3 jungle and the world</h3>
+<h3 align="center">Since the beginning of '22 I'm restarting my carreer to become a full stack web3 developer, currently learning on FCC and hackathons. I have a strong background in working with relational databases and visual analytics tools.</h3>
 <br/>
 
-- 🔭 I’m currently working on [AdSpaces](https://github.com/gfkacid/AdSpaces) and **every web3 Hackathon I get my hands on**
+- 🔭 I’m currently working on [AdSpaces](https://github.com/gfkacid/AdSpaces) for [ETHOnline](https://online.ethglobal.com/) and **every web3 Hackathon I get my hands on**
 
 - 🌱 I’m currently learning **Solidity, Typescript, React, NextJS, TailwindCSS, testing w/ Mocha/Chai**
 
